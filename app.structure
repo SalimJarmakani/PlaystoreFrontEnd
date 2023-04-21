@@ -1,0 +1,90 @@
+├── public
+│   ├── index.html
+│   └── ...
+└── src
+    ├── components
+    │   ├── Header.js
+    │   ├── Footer.js
+    │   ├── Item.js
+    │   ├── ItemDetail.js
+    │   ├── Login.js
+    │   ├── Signup.js
+    │   ├── Wishlist.js
+    │   └── ...
+    ├── pages
+    │   ├── Home.js
+    │   ├── Category.js
+    │   ├── ItemCategory.js
+    │   ├── SearchResults.js
+    │   ├── ItemDetailPage.js
+    │   ├── Profile.js
+    │   ├── WishlistPage.js
+    │   └── ...
+    ├── services
+    │   ├── auth.js
+    │   ├── itemService.js
+    │   ├── userService.js
+    │   └── ...
+    ├── styles
+    │   ├── variables.js
+    │   ├── globalStyles.js
+    │   └── ...
+    ├── App.js
+    ├── index.js
+    ├── routes.js
+    └── ...
+
+
+
+    Sure! Here's how I would categorize the code:
+
+Components:
+
+    App.js
+    Header.js
+    Footer.js
+    Item.js
+    ItemDetail.js
+    Login.js
+    Signup.js
+    Home.js
+    Category.js
+    ItemCategory.js
+    SearchResults.js
+    ItemDetailPage.js
+    Profile.js
+    Wishlist.js
+    WishlistPage.js
+
+API:
+
+    api.js
+
+Pages:
+
+    HomePage.js
+    CategoryPage.js
+    ItemCategoryPage.js
+    SearchResultsPage.js
+    ItemDetailPage.js
+    ProfilePage.js
+    WishlistPage.js
+
+Styles:
+
+    index.css
+    App.css
+    Header.css
+    Footer.css
+    Item.css
+    ItemDetail.css
+    Login.css
+    Signup.css
+    Home.css
+    Category.css
+    ItemCategory.css
+    SearchResults.css
+    ItemDetailPage.css
+    Profile.css
+    Wishlist.css
+    WishlistPage.css
